@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Akash Singh",
+    "occupation": "React Native Developer && Python Programmer",
+    "description": "React Native Developer by Day, Founder && Freelancer by Night.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Akash, I'm a React Native Developer. Currently I'm studing CS ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "akash.akara@gmail.com",
+    "phone": "(+91) 7903 8724 83",
+    "address": {
+      "street": "Salt Lake",
+      "city": "Kolkata",
+      "state": "WB",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+   
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akash.akara",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akash_akara/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akashxxvi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/akashakara",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Python, Web Development, AR, Kubernetes, SQL, R, MERN, Pandas, Git,React Native,AWS,UI/UX,RPA,Tableau",
+    "education": [
+      {
+        "school": "Maulana Abul Kalam Azad University Of Technology",
+        "degree": "Computer Science",
+        "graduated": "june 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "Tableau",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with React Native",
+      
+        "url": "https://github.com/akashakara/youtube-clone-RN"
+      },
+      {
+        "title": "FB Messanger Clone",
+        "category": "FB Messanger Clone built with React Native",
+        
+        "url": "https://github.com/akashakara/FB-Messanger-Clone"
+      },
+      {
+        "title": "Tinder Clone",
+        "category": "Tinder Clone built with React Native",
+        
+        "url": "https://github.com/akashakara/Tinder-Clone"
+      },
+      {
+        "title": "Face-Detect",
+        "category": "Face-Detect with Python",
+       
+        "url": "https://github.com/akashakara/Face_detect"
+      },
+      {
+        "title": "Automation",
+        "category": "automating different tasks with python",
+        
+        "url": "https://github.com/akashakara/AutomationWithPython"
+      }
+    ]
+  }}
+ 
